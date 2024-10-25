@@ -32,7 +32,7 @@ Python|Instalar o Python no seu PC ou VPS
 
 ### ♥ Donativo ♥
 
-> <i>Se este projeto te ajuda e você gostaria de contribuir com o trabalho, considere um donativo de qualquer valor em USDT ou TON ou BITCOIN.</i>
+> <i>Se este projeto te ajuda e você gostaria de contribuir com o trabalho, considere um donativo de qualquer valor em USDT, TON ou BITCOIN.</i>
 
 <code><b>USDT</b></code>:<code>(Rede TRON | TRC20)</code>
 <br><code><b>Endereço</b></code>:<code>TUuS2ZZJzsm4FVsKA8mZ548k4qsQqKiZ2z</code>
