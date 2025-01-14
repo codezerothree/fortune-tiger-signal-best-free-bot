@@ -44,8 +44,6 @@ Python|Instalar o Python no seu PC ou VPS
 <code><b>BITCOIN</b></code>:<code>(Rede BTC)</code>
 <br><code><b>Endereço</b></code>:<code>bc1q7k2wlxr6znffymz7qjpuy7d09s8jnr2djkewzj</code></br>
 
-Doar no Bot de Doações: <a href="https://t.me/donatescodezerothree_bot?start=doacao_github">t.me/donatescodezerothree</a>
-
 ### OBSERVAÇÃO:
 
 > <i>Caso necessite de ajuda para que o bot funcione 24hs em um servidor privado (nuvem), me contate que faremos um pacote para a configuração de seu bot no grupo ou canal, funcionando direto de um Servidor em Nuvem 24hs por dia.</i></br>
