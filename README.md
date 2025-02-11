@@ -1,5 +1,5 @@
 ## Robô simples e funcional (em python) para envio de sinais  de jogos de slots para grupos ou canais do Telegram
-![user](https://img.shields.io/badge/developer:-@codezerothree-FF00A1)
+![user](https://img.shields.io/badge/developer:-@wssolinfor-FF00A1)
 
 > O tutorial abaixo se refere ao jogo Fortune Tiger. Adapte o script para o seu jogo de slot.
 
@@ -49,4 +49,4 @@ Python|Instalar o Python no seu PC ou VPS
 > <i>Caso necessite de ajuda para que o bot funcione 24hs em um servidor privado (nuvem), me contate que faremos um pacote para a configuração de seu bot no grupo ou canal, funcionando direto de um Servidor em Nuvem 24hs por dia.</i></br>
 <b>Serviços Inclusos:</b> <code>(Bot, Grupo / Canal e Servidor)</code></br>
 
-𒆜 <a href="https://t.me/codezerothree_bot?start=view_github">t.me/codezerothree</a>
+𒆜 <a href="https://t.me/wssolinforbot?start=view_github">t.me/wssolinfor</a>
