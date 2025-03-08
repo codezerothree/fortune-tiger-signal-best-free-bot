@@ -1,5 +1,5 @@
 ## Robô simples e funcional (em python) para envio de sinais  de jogos de slots para grupos ou canais do Telegram
-[![user](https://img.shields.io/badge/developer:-@wssolinfor-FF00A1)](https://t.me/wssolinforbot?start=repo-bot-sinais-git)
+[![user](https://img.shields.io/badge/developer:-@wssolinfor-F0004B)](https://t.me/wssolinforbot?start=repo-bot-sinais-git)
 
 > O tutorial abaixo se refere ao jogo Fortune Tiger. Adapte o script para o seu jogo de slot.
 
